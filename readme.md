@@ -1,4 +1,4 @@
-GitHub Copilot: # IntegralMethods.ipynb
+# IntegralMethods.ipynb
 
 This Jupyter notebook contains various methods for numerical integration. The methods implemented in this notebook are:
 
